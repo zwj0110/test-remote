@@ -10,5 +10,6 @@ public class URLUtils {
         for (Map.Entry<String, String> stringStringEntry : entrySet) {
 
         }
+        return url;
     }
 }
