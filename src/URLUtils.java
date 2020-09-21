@@ -8,7 +8,7 @@ public class URLUtils {
         String url = "";
 
         for (Map.Entry<String, String> stringStringEntry : entrySet) {
-
+            System.out.println();
         }
         return url;
     }
